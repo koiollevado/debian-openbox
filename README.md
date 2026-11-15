@@ -4,7 +4,9 @@ Projetos de instalações debian minimalistas com uso do openbox
 Cole a url https://cdimage.debian.org/cdimage/archive/
 
 Baixe uma das versões
+
 https://cdimage.debian.org/cdimage/archive/10.13.0/i386/iso-cd/
+
 https://cdimage.debian.org/cdimage/archive/12.12.0/i386/iso-cd/
 
 Após a instalação do sistema base com o debian netinst ou ubuntu-minimal, abra o terminal e proceda:
