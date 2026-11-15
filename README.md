@@ -3,7 +3,7 @@ Projetos de instalações debian minimalistas com uso do openbox
 
 Cole a url https://cdimage.debian.org/cdimage/archive/
 
-Baixe uma das versões
+Procure pela sua versão e baixe uma delas, por exemplo:
 
 https://cdimage.debian.org/cdimage/archive/10.13.0/i386/iso-cd/
 
