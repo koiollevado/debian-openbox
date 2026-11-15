@@ -1,0 +1,23 @@
+openbox-mini/
+├── debian-12/
+│   ├── lib/
+│   │   └── common.sh
+│   ├── config/
+│   │   ├── sources.list
+│   │   ├── xinitrc
+│   │   ├── menu.xml
+│   │   ├── rc.xml
+│   │   ├── conkyrc
+│   │   └── Xresources
+│   ├── wallpapers/
+│   ├── temas-icones/
+│   ├── 00-preparacao.sh
+│   ├── 01-base-openbox.sh
+│   ├── 02-sessao-slim.sh
+│   ├── 03-ambiente-openbox.sh
+│   ├── 04-ajustes-finais.sh
+│   ├── 05-navegadores.sh
+│   └── instalar.sh
+├── debian-10/
+│   └── (estrutura análoga, para uso futuro)
+└── README.md
